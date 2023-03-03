@@ -1,4 +1,4 @@
-## _This week im learning_👨‍💻
+## This week im learning👨‍💻
 
 1. Estructura básica de una página web.
 2. Hiperlinks y media en HTML.

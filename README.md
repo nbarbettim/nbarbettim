@@ -1,16 +1,21 @@
-### Hi there 👋
+## _This week im learning_👨‍💻
 
-<!--
-**nbarbettim/nbarbettim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1. Estructura básica de una página web.
+2. Hiperlinks y media en HTML.
 
-Here are some ideas to get you started:
+En la primera tarea **Guille** pidió que crearamos una lista de cinco comandos de la terminal:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Command | Description|
+| --- | --- |
+| ls | Lista los archivos de la carpeta actual |
+| cd | permite navegar entre carpetas |
+| pwd | Muestra la ruta absoluta del directorio actual |
+| mkdir | Crea una nueva carpeta dando un nombre para la carpeta |
+| cp| permite copiar una carpeta dada una ruta inicial y final |
+
+Igualmente nos pidió añadir una sección con al menos dos comandos alias que te parezcan útiles
+
+Command | Description|
+| ------ | ------ |
+| alias cl="clear"| Se suele utilizar mucho 😂 |
+| alias rm="trash"| eliminar permanentemente los archivos🗑️ |

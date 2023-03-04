@@ -1,9 +1,16 @@
-## This week im learning👨‍💻
+# _Hi There, I am Nicolas Barbetti👋_
 
-1. Estructura básica de una página web.
-2. Hiperlinks y media en HTML.
+## Civil Engineer 👷🏼 | Mobility Consultant 🚴🏼 | Web developer 💻 | Full Stack in progress 👨‍💻 |
 
-En la primera tarea **Guille** pidió que crearamos una lista de cinco comandos de la terminal:
+### _About me👇🏼_
+
+- 🔭 I’m currently working on **mobility consultancies**
+
+- 🌱 I’m currently learning **Full-stack Javascrip developer**
+
+- 🎮 I’m currently playing **Howarts Legacy**
+
+### _Most used commands 💻_
 
 | Command | Description|
 | --- | --- |
@@ -13,7 +20,7 @@ En la primera tarea **Guille** pidió que crearamos una lista de cinco comandos 
 | mkdir | Crea una nueva carpeta dando un nombre para la carpeta |
 | cp| permite copiar una carpeta dada una ruta inicial y final |
 
-Igualmente nos pidió añadir una sección con al menos dos comandos alias que te parezcan útiles
+### _Alias 💻_
 
 Command | Description|
 | ------ | ------ |
